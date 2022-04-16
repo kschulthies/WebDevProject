@@ -1,0 +1,38 @@
+/*Kailani 4/15/22*/
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h3{
+    color:#8FBC8F;
+}
+.intro{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    font-size: 17px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+ol{
+    font-size: 17px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.img1{
+    align-self: center;
+}
+body{
+    background: color #f5f5f5;
+    resize:both;
+}
+.mytags{
+    color: white;
+}
+.h3{
+    color:#673147;
+}
+.indent{
+    text-indent: 50px;
+}
